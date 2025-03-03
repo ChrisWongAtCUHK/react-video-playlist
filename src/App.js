@@ -2,7 +2,7 @@ import { useState } from 'react'
 import course from './data/course.json'
 
 function App() {
-  const [vid, setVid] = useState('MggIZaWXpo8')
+  const [vid, setVid] = useState('YrxBCBibVo0')
   const [sidebar, setSidebar] = useState({ active: true })
 
   function toggleSidebar() {
